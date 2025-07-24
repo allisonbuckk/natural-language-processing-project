@@ -1,0 +1,305 @@
+[
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "are",
+            "the",
+            "dates",
+            "graduation",
+            "ceremony",
+            "when",
+            "is",
+            "undergraduate",
+            "graduate",
+            "commencement"
+        ],
+        "bot_response": "May 16th, 2025 at 4:00pm - Graduate Ceremony (Master's and Doctoral Degrees). May 17th, 2025 at 10:00am - Undergraduate Commencement (Bachelor's Degrees)",
+        "required_words": [
+            "dates",
+            "what"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "how",
+            "many",
+            "tickets",
+            "reserve",
+            "per",
+            "student"
+        ],
+        "bot_response": "Ticket Requests: Each graduating student will be able to request a maximum of four (4) guest tickets. Ticket Request Form: A dedicated online form will be distributed via email in April. Please note that ticket requests are not automatically granted and will require submission through this form. Additional Tickets: If additional tickets become available after the initial request period, a separate email notification will be sent out. Friday Evening Ceremony: Please note that no tickets are required for the Friday evening ceremony.",
+        "required_words": [
+            "tickets",
+            "how"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "how",
+            "do",
+            "to",
+            "order",
+            "cap",
+            "and",
+            "gown",
+            "shipping"
+        ],
+        "bot_response": "Here is the link to order Regalia: https://colleges.herffjones.com/college/rmorris/. Free Shipping to RMU Spirit Store: To receive free shipping to the RMU Spirit Store, please place your order by March 21st. Regalia can be picked up during the Grad Fair on April 23rd and 24th in Patrick Henry at the RMU Spirit Store located next to the library. Home Shipping: To ensure timely delivery to your home address for the commencement ceremony, please place your order by April 19th.",
+        "required_words": [
+            "order",
+            "how"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "do",
+            "we",
+            "students",
+            "practice",
+            "ceremony",
+            "graduation"
+        ],
+        "bot_response": "As there will be no official commencement ceremony practice, you will be given instructions for the day upon your arrival.",
+        "required_words": [
+            "practice"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "where",
+            "do",
+            "we",
+            "i",
+            "students",
+            "report",
+            "go",
+            "graduation",
+            "ceremony"
+        ],
+        "bot_response": "All students will report to the practice gym at the upmc events center 1 hour prior to the ceremony .  We will have staff on hand to assist you with finding your way.",
+        "required_words": [
+            "where"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "do",
+            "i",
+            "have",
+            "assigned",
+            "students",
+            "seat",
+            "sit",
+            "graduation",
+            "ceremony"
+        ],
+        "bot_response": "Graduates will line up with their academic school. You are welcome to line up with your friends in the practice gym as the line is not alphabetical.",
+        "required_words": [
+            "assigned",
+            "seat"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "should",
+            "i",
+            "wear",
+            "students",
+            "graduation",
+            "ceremony",
+            "dress",
+            "code"
+        ],
+        "bot_response": "We ask that you wear professional attire under your regalia. Suit jackets are not necessary, as they may be uncomfortable underneath the regalia.",
+        "required_words": [
+            "what",
+            "wear"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "when",
+            "where",
+            "do",
+            "i",
+            "students",
+            "graduation",
+            "ceremony",
+            "get",
+            "receive",
+            "academic",
+            "honors",
+            "medallion"
+        ],
+        "bot_response": "Undergraduate students who earned academic honors should claim their medallions prior to the commencement ceremony in the practice gym. Honor medallions are based on the previous semester\u2019s grade point average. All medallions are prepared before grades are due. Preparation time is limited between the grade due date and commencement to review all student\u2019s grade point averages to adjust for changes. Degree honors will be printed on transcripts and the diploma following the ceremony.  The following week after commencement, we can exchange medallions if the GPA increased or decreased. Honor medallions are exclusively for undergraduate students.",
+        "required_words": [
+            "my",
+            "medallion"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "are",
+            "the",
+            "honors",
+            "awards",
+            "graduation",
+            "ceremony",
+            "medallion"
+        ],
+        "bot_response": "Undergraduate (Bachelor\u2019s) Honors: 3.50 \u2013 3.74 GPA is Cum Laude, 3.75 \u2013 3.94 GPA is Magna Cum Laude, and 3.95 \u2013 4.00 GPA is Summa Cum Laude.",
+        "required_words": [
+            "what",
+            "honors"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "accommodations",
+            "are",
+            "there",
+            "guests",
+            "graduation",
+            "ceremony",
+            "wheelcahirs",
+            "walkers",
+            "mobility",
+            "challenges"
+        ],
+        "bot_response": "Special parking is reserved in the Upper UPMC Lot. Guests with special accommodations should enter the UPMC gate. Reserved seating is available for guests traveling in wheelchairs. Staff will be available to assist your family in finding seats.",
+        "required_words": [
+            "guests",
+            "accomodations"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "what",
+            "time",
+            "doors",
+            "open",
+            "guests",
+            "graduation",
+            "ceremony"
+        ],
+        "bot_response": "Doors will open at 1 hour prior to the ceremonies for your guests.",
+        "required_words": [
+            "guests",
+            "time"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "is",
+            "there",
+            "a",
+            "reception",
+            "graduation",
+            "ceremony",
+            "where"
+        ],
+        "bot_response": "A reception will be held in the West Concourse of the UPMC Events Center following the ceremony.",
+        "required_words": [
+            "reception"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "how",
+            "long",
+            "is",
+            "graduation",
+            "ceremony",
+            "length"
+        ],
+        "bot_response": "While there is no set time, we estimate that the ceremony will last approximately 90 minutes.",
+        "required_words": [
+            "long"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "does",
+            "student",
+            "receive",
+            "i",
+            "graduation",
+            "ceremony",
+            "diploma",
+            "actual",
+            "real"
+        ],
+        "bot_response": "During the ceremony, graduates will receive a diploma certificate cover. Your diploma will be mailed to your permanent address about eight weeks after the conferral of the degrees. Please be sure your address is updated in your banner profile, especially if you are moving after graduation. Doctoral students will receive their diploma on stage.",
+        "required_words": [
+            "diploma"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "is",
+            "there",
+            "livestream",
+            "graduation",
+            "ceremony"
+        ],
+        "bot_response": "Yes, the ceremony will stream on RMU's YouTube Channel. Here is the link to the channel: https://www.youtube.com/rmunewstube.",
+        "required_words": [
+            "livestream"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "where",
+            "to",
+            "park",
+            "graduation",
+            "ceremony",
+            "parking",
+            "information"
+        ],
+        "bot_response": "There is free parking available in the UPMC Lot, Colonial Way Lot, Upper UPMC Lot, and other lots across campus. Graduation day brings a heavy amount of traffic to campus and University Boulevard. Please plan to arrive early to avoid any traffic delays. For the safety of RMU guests and to maintain traffic flow, stopping and drop-off are prohibited along Campus Drive. Limited accessibility drop-off is permitted in the drive-through circle directly in front of the UPMC Gate on Massey Way. The UPMC Gate parking is an ADA primary parking and drop off location.  The upper lot is next to the ADA lot on Massey way. There are no drop-offs at the People\u2019s gate.",
+        "required_words": [
+            "park"
+        ]
+    },
+    {
+        "response_type": "question",
+        "user_input": [
+            "when",
+            "will",
+            "i",
+            "graduation",
+            "ceremony",
+            "get",
+            "receive",
+            "my",
+            "honors",
+            "cords"
+        ],
+        "bot_response": "Graduation cords are handled by the particular honor society or organization and distributed to the graduates by the individual group/organization.",
+        "required_words": [
+            "my",
+            "cords"
+        ]
+    }
+]
